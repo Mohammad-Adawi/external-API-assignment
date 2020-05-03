@@ -23,6 +23,7 @@
       <?php echo $data->weather->sky; ?>
       <?php echo $data->weather->field_conditions; ?>
     </dd>
+    
     <dt>Game id</dt>
     <dd><?php echo $data->game_id; ?></dd>
     <dt>Coin_toss</dt>
